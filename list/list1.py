@@ -8,5 +8,5 @@ mixed = ["rasidul", 'hoque', "david", 12, 13, 14]
 # print(mixed)
 # print(list)
 # print(len(people))
-for value in people:
+
     print(value)
